@@ -1,0 +1,37 @@
+# Machine Learning / Data specific
+models/
+output/
+data/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*~
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+
+# Logs
+*.log
+
+# Python build artifacts
+dist/
+build/
+*.egg-info/
